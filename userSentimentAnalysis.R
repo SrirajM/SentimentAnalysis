@@ -18,7 +18,7 @@ require(magrittr)
 
 #Google developer API key
 
-apikey <- "AIzaSyDkXTX57GyEaIljMHUPvnNvRwiO68u6gH0"
+apikey <- "###"
 
 
 key <- AuthenticateWithYoutubeAPI(apikey)
